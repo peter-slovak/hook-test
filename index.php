@@ -1,2 +1,2 @@
 <?php
-echo "<h1> DEV Version 7 </h1>";
+echo "<h1> DEV Version 2 </h1>";
